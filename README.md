@@ -1,6 +1,6 @@
-# task_list
+# Aplicativo Lista de Tarefas
 
-A new Flutter project.
+Uma aplicação para estudar e exercitar o Flutter. Uma lista que adiciona, marca como concluída e remove as tarefas.
 
 ## Getting Started
 
